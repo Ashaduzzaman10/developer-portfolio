@@ -84,3 +84,16 @@ main {
   margin-bottom: 30px;
 }
 /*about section ends   */
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+about.info-title {
+  font-size: 20px;
+  color: #757575;
+}
+.info-discription {
+  font-weight: 700;
+  font-size: 20px;
+  color: #474747;
+}
