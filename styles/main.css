@@ -76,9 +76,9 @@ main {
 }
 .section-tittle {
   text-align: center;
-  margin-bottom: 30px;
   font-weight: 700;
-  margin-bottom: 30px;
+  font-size: 35px;
+  margin-bottom: 50px;
 }
 .section-description {
   color: #757575;
@@ -100,7 +100,7 @@ about.info-title {
   color: #474747;
 }
 /* what i do style */
-.what-i-do {
+.section {
   margin-top: 130px;
 }
 .skills-container {
@@ -118,4 +118,13 @@ about.info-title {
   font-size: 20px;
   margin-top: 30px;
   margin-bottom: 20px;
+}
+/* resume section styles */
+/* .resume {
+  font-size: 18px;
+} */
+.section-title {
+  text-align: center;
+}
+.resume-container {
 }
