@@ -120,11 +120,13 @@ about.info-title {
   margin-bottom: 20px;
 }
 /* resume section styles */
-/* .resume {
-  font-size: 18px;
-} */
+.resume {
+  padding-left: 25px;
+  border-bottom: 15px;
+}
 .section-title {
   text-align: center;
+  border-bottom: 10px;
 }
 .resume-container {
   display: flex;
@@ -135,6 +137,7 @@ about.info-title {
   font-weight: 700;
   font-size: 25px;
   color: #474747;
+  border-bottom: 15px;
 }
 .resume .sub-title {
   color: #757575;
@@ -148,7 +151,7 @@ about.info-title {
   font-weight: 700;
   font-size: 25px;
   color: #474747;
-  margin-bottom: 10px;
+  margin-bottom: 15pxpx;
 }
 .resume .sub-title {
   color: #757575;
@@ -180,11 +183,13 @@ input[type="email"] textarea {
   border: 0;
   width: 100%;
   padding: 18px 30px;
+  border-radius: 10px;
+  border-top: 5px;
+  border-bottom: 5px;
 }
 input {
   height: 64px;
 }
 .contact a {
   text-decoration: none;
-  
 }
